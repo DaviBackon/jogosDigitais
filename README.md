@@ -1,6 +1,4 @@
-## **README.md Descontraído para o seu Projeto de Jogos Digitais**
-
-### ** Sobre esse Game Finder **
+## Jogos Digitais - Imersão Dev com Google Gemini
 
 **Tá afim de descobrir jogos incríveis, mas não sabe por onde começar?** 
 
